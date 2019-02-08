@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class HomeScreen extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://www.devrabbit.com/\",\"report_upload_url\":\"https://192.168.1.142:8080/TAF_Automation_DR/UploadReportFile\",\"project_name\":\"DockerTest\",\"project_description\":\"d\",\"project_id\":219,\"module_name\":\"DockerModule\",\"module_description\":\"\",\"sub_module_id\":0,\"module_id\":359,\"testcase_name\":\"TC_Docker\",\"testcase_id\":431,\"testset_id\":0,\"executed_timestamp\":-880465446,\"browser_type\":\"chrome\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://www.devrabbit.com/\",\"report_upload_url\":\"https://192.168.1.142:8080/TAF_Automation_DR/UploadReportFile\",\"project_name\":\"DockerTest\",\"project_description\":\"d\",\"project_id\":219,\"module_name\":\"DockerModule\",\"module_description\":\"\",\"sub_module_id\":0,\"module_id\":359,\"testcase_name\":\"TC_Docker\",\"testcase_id\":431,\"testset_id\":0,\"executed_timestamp\":-878320413,\"browser_type\":\"chrome\"}";
 
 	public static String projectName = "dockertest";
 	public WebDriver driver;
